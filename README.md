@@ -40,8 +40,8 @@ A tela desenvolvida contém:
 
 Projeto desenvolvido em dupla por:
 
-- **[Nome do integrante 1]**
-- **[Nome do integrante 2]**
+- **Beatriz Lima**
+- **Izabel Linhares**
 
 ## 📌 Status do projeto
 
